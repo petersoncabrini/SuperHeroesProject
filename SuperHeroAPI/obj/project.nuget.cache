@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vYLUqSEL09989QAHW6konriFEFGTRWxYdWFJz4kK8ypXBr8af5FKgHMiGbEppvW6QS0a8lZMWQ3ugjp2qDB6/A==",
+  "dgSpecHash": "E4oyBmFNNWt6BZF305TF1KVmUfvlUibAG4QvlxbfHyt+Z0fxOSZbOE2es+NMi0J8yV7OplF27DOMoSUs47+Tmg==",
   "success": true,
   "projectFilePath": "/Users/peterson/Documents/Projetos/SuperHeroes/SuperHeroAPI/SuperHeroAPI.csproj",
   "expectedPackageFiles": [
@@ -35,8 +35,6 @@
     "/Users/peterson/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/peterson/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/Users/peterson/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "/Users/peterson/.nuget/packages/npgsql/6.0.7/npgsql.6.0.7.nupkg.sha512",
-    "/Users/peterson/.nuget/packages/npgsql.entityframeworkcore.postgresql/6.0.7/npgsql.entityframeworkcore.postgresql.6.0.7.nupkg.sha512",
     "/Users/peterson/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/peterson/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/Users/peterson/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
